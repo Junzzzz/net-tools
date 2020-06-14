@@ -34,3 +34,6 @@ core
 /rarp
 /route
 /slattach
+
+/cmake-build-debug
+/.idea
